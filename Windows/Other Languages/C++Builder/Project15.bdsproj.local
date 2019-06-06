@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018-06-02 17:33:39.605.cpp,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit16.cpp=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit16.cpp</Transaction>
+    <Transaction>2018-06-02 17:33:39.605.h,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit16.h=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit16.h</Transaction>
+    <Transaction>2018-06-02 17:33:39.605.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit16.dfm=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit16.dfm</Transaction>
+    <Transaction>2018-06-02 17:33:44.298.bdsproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Project15.bdsproj=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Project15.bdsproj</Transaction>
+    <Transaction>2018-06-02 17:34:39.274.cpp,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit2.cpp=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketSDKUnit.cpp</Transaction>
+    <Transaction>2018-06-02 17:34:39.274.h,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit2.h=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketSDKUnit.h</Transaction>
+    <Transaction>2018-06-02 17:59:20.937.cpp,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketSDKUnit.cpp=</Transaction>
+    <Transaction>2018-06-02 18:02:16.185.lib,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocket4C.lib=</Transaction>
+    <Transaction>2018-06-02 18:27:48.508.lib,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocket4C.lib=</Transaction>
+    <Transaction>2018-06-04 09:20:46.995.cpp,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit2.cpp=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketMgr.cpp</Transaction>
+    <Transaction>2018-06-04 09:20:46.995.h,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\Unit2.h=D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketMgr.h</Transaction>
+    <Transaction>2018-06-19 18:33:04.382.cpp,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketMgr.cpp=</Transaction>
+    <Transaction>2018-06-19 18:41:03.198.cpp,D:\2018New\setoutsoft-HP-Socket-master\HP-Socket\Windows\Demo\Other Languages Demos\cppbuilder\HPSocketMgr.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
